@@ -13,3 +13,5 @@
 [Lab-7] https://github.com/Saivamshi-2628/2303A52238-Aiml/blob/main/AIML_LAB_7.ipynb
 
 [Lab-8] https://github.com/Saivamshi-2628/2303A52238-Aiml/blob/main/AIML_LAB_8.ipynb
+
+[Lab-9] https://github.com/Saivamshi-2628/2303A52238-Aiml/blob/main/AIML_LAB_9.ipynb
