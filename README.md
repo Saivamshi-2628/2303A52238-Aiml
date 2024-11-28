@@ -17,3 +17,5 @@
 [Lab-9] https://github.com/Saivamshi-2628/2303A52238-Aiml/blob/main/AIML_LAB_9.ipynb
 
 [Lab-10] https://github.com/Saivamshi-2628/2303A52238-Aiml/blob/main/AIML_LAB_10%5BKMeans%5D.ipynb
+
+[Lab-11] https://github.com/Saivamshi-2628/2303A52238-Aiml/blob/main/AIML_LAB_11_%5BAIML_Implementation%5D.ipynb
