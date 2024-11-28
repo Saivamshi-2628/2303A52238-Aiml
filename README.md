@@ -9,3 +9,5 @@
 [Lab-5] https://github.com/Saivamshi-2628/2303A52238-Aiml/blob/main/AIML_lab_5.ipynb
 
 [Lab-6] https://github.com/Saivamshi-2628/2303A52238-Aiml/blob/main/AIML_LAB_6.ipynb
+
+[Lab-7] https://github.com/Saivamshi-2628/2303A52238-Aiml/blob/main/AIML_LAB_7.ipynb
